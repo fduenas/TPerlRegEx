@@ -1,4 +1,4 @@
-# TPerlRegEx
+# Librería TPerlRegEx Para Uso de Expresiones Regulares (Regular Expressions)
 
 Librería TPerlRegEx para ser usada en versiones Delphi 2010 y anteriores
 
